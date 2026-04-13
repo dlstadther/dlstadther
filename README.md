@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dillon</h1>
 <h3 align="center">A data engineer from NC</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlstadther" alt="dlstadther" /> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlstadther&show_icons=true&theme=transparent" alt="dlstadther" /></p>
+<p align="center"><img src="https://metrics.lecoq.io/dlstadther" alt="dlstadther metrics" /></p>
 
 <p align="center">
 <a href="https://twitter.com/dlstadther" target="blank"><img align="center" src="https://cdn.simpleicons.org/x" alt="dlstadther" height="30" width="30" /></a>
